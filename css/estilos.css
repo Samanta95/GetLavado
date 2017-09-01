@@ -109,3 +109,13 @@ padding: 0;
         font-size: 20px;
         color: grey;
       }
+
+
+.activo{
+    border: 2px solid  grey;
+    box-shadow: 5px 5px 5px 5px #888888;
+}
+.desactivo{
+  border: 0px;
+  box-shadow: none;
+}

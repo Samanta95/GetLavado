@@ -113,9 +113,39 @@ padding: 0;
 
 .activo{
     border: 2px solid  grey;
-    box-shadow: 5px 5px 5px 5px #888888;
+    box-shadow: 3px 3px 3px 3px grey;
 }
 .desactivo{
   border: 0px;
   box-shadow: none;
+}
+
+
+.contenedor_detalle{
+  margin:0 auto;
+  width: 400px !important;
+  margin-left: 35%!important;
+  display: inherit;
+  height: 700px;
+  margin-top: 100px;
+}
+.contenedor_detalle h3{
+  margin: 0 auto;
+  text-align: center !important;
+}
+
+.cantidad_ropa h3{
+  width: 50px;
+  height: 35px;
+  background-color: grey;
+  color: white;
+  text-align: left !important;
+  font-size: 20px;
+  margin: 0 auto;
+}
+
+.titulo{
+  color: white;
+  background-color: #f6653c;
+  text-align: center;
 }

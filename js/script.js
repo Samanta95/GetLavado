@@ -5,8 +5,5 @@ function validacion_log(){
 $('.card').click(function(){
     $(this).removeClass('desactivo');
     $(this).addClass('activo');
-    setTimeout(function(){
-        $(this).removeClass('activo');
-        $(this).addClass('desactivo');
-    }, 100);
+
 });

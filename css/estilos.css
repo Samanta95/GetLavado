@@ -1,0 +1,111 @@
+.header{
+  background-color:#0ab5ff;
+  height: 105px;
+}
+
+body *{
+font-family: 'Montserrat', sans-serif;
+}
+
+.logo_gl{
+  width: 200px;
+  margin:30px;
+}
+
+.card{
+margin: 0 auto;
+width: 300px;
+height: 300px;
+display: inherit;
+padding: 0;
+}
+
+.login{
+  margin: 2rem;
+  padding: 2rem;
+  width: 500px;
+  height: 300px;
+  margin: 0 auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: center;
+  box-shadow: 5px 5px 5px 5px #888888;
+}
+
+.fb_log{
+  width: 300px;
+  margin: 0 auto;
+  color:white;
+}
+
+.footer{
+  background-image: url(http://getlavado.com/wp-content/uploads/2016/09/grey_wash_wall.png);
+  height: 300px;
+}
+
+.email_log{
+  width:300px;
+  margin: 0 auto;
+  color:white;
+  }
+
+  .footer_redes{
+    margin-top:20px;
+    margin-bottom:20px;
+  }
+
+  .planes{
+    margin: 20px;
+    padding: 0;
+  }
+
+  .info_tarjeta{
+    margin: 75px;
+    margin-right: 50px;
+    text-align: center;
+  }
+
+
+  .tipo_tarjeta{
+    width: 300px;
+    margin: 0 auto;
+    display: inherit;
+    align-items: center;
+  }
+
+  .terminos{
+
+    margin: 0 auto;
+    display: inherit;
+    text-align: center;
+
+  }
+
+  .continuar{
+    align-items: center;
+    width: 250px;
+    display: inherit;
+    margin: 0 auto;
+    margin-bottom: 100px;
+  }
+
+  .card-divider{
+    background-color: #f6653c;
+    color: white;
+
+  }
+
+    .card-divider, h4 {
+      text-align: center !important;
+      margin: 0 auto;
+    }
+
+  .card-section{
+      text-align: center !important;
+      margin: 0 auto;
+    }
+
+    .card-section p{
+        font-size: 20px;
+        color: grey;
+      }
